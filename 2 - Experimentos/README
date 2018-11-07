@@ -1,0 +1,35 @@
+Nesta pasta, temos os resultados experimentais de uma associação série de um resistor e um indutor. No caso, temos a tensão do resistor, do indutor e a medição da própria tensão de entrada (seja ela sendo gerada por uma ponte de mosfets, um gerador Tectronics ou um gerador comum).
+
+Os valores da combinação dos valores de resistores e indutores utilizados se encontram abaixo. No caso, utilizou-se uma década de resistores e outra de indutores para configurar essas medidas.
+
+
+Utilizando como gerador uma Ponte de Mosfets:
+1 - R = 100 Ohm / L = 148 mH
+2 - R = 148 Ohm / L = 148 mH
+3 - R = 228 Ohm / L = 148 mH
+4 - R = 490 Ohm / L = 148 mH
+5 - R = 22 Ohm / L = 3,19 mH
+6 - R = 35 Ohm / L = 3,19 mH
+7 - R = 100 Ohm / L = 3,19 mH
+8 - R = 412 Ohm / L = 6,74 mH
+9 - R = 390 Ohm / L = 3,1 mH
+10 - R = 490 Ohm / L = 1,52 mH
+
+Utilizando um gerador Tectronics e um gerador comum
+1 - R = 304 Ohm / L = 450 mH
+2 - R = 450 Ohm / L = 450 mH
+3 - R = 692 Ohm / L = 450 mH
+4 - R = 1489 Ohm / L = 450 mH
+5 - R = 2758 Ohm / L = 400 mH
+6 - R = 4444 Ohm / L = 400 mH
+7 - R = 12539 Ohm / L = 400 mH
+8 - R = 24451 Ohm / L = 400 mH
+9 - R = 12454 Ohm / L = 99 mH
+10 - R = 9800 Ohm / L = 30,4 mH
+
+Foram utilizados três faixas de frequências (onda quadrada de 3,6kHz, 40kHz e 80kHz) para a medição da tensão do resistor e do indutor. Infelizmente, os valores de 3,6kHz e 40kHz para o gerador Tectronics foram perdidos. Para a continuidade desse pŕojeto, os mesmos valores devem ser medidos novamente.
+
+
+
+
+
