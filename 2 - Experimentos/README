@@ -27,7 +27,7 @@ Utilizando um gerador Tectronics e um gerador comum
 9 - R = 12454 Ohm / L = 99 mH
 10 - R = 9800 Ohm / L = 30,4 mH
 
-Foram utilizados três faixas de frequências (onda quadrada de 3,6kHz, 40kHz e 80kHz) para a medição da tensão do resistor e do indutor. Infelizmente, os valores de 3,6kHz e 40kHz para o gerador Tectronics foram perdidos. Para a continuidade desse pŕojeto, os mesmos valores devem ser medidos novamente.
+Foram utilizados três faixas de frequências (onda quadrada de 3,6kHz, 40kHz e 80kHz) para a medição da tensão do resistor e do indutor.
 
 
 
